@@ -11,7 +11,7 @@ https://towardsdatascience.com/https-towardsdatascience-com-how-to-find-the-righ
 **SentiMozart: Music using sentiment**:https://pdfs.semanticscholar.org/e572/f9f6f68edd8115f55fa38d45449a689839f7.pdf
 
 **Types of Scenes:**
-![]:(https://github.com/nikhilnagaraj/Capita-AI/blob/master/IMG_2217.HEIC)
+![]:(IMG_2217.HEIC)
 https://thescriptlab.com/screenwriting/structure/the-scene/16-types-of-scenes/
 http://www.yeahwrite.org/?p=3656
 
