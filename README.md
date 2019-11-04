@@ -10,6 +10,8 @@ https://towardsdatascience.com/https-towardsdatascience-com-how-to-find-the-righ
 
 **SentiMozart: Music using sentiment**:https://pdfs.semanticscholar.org/e572/f9f6f68edd8115f55fa38d45449a689839f7.pdf
 
+**Generating Ambient Music from WaveNet**:https://medium.com/@rachelchen_49210/generating-ambient-noise-from-wavenet-95aa7f0a8f77
+
 **Types of Scenes:**
 ![]:(IMG_2217.HEIC)
 https://thescriptlab.com/screenwriting/structure/the-scene/16-types-of-scenes/
