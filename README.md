@@ -13,7 +13,7 @@ https://towardsdatascience.com/https-towardsdatascience-com-how-to-find-the-righ
 **Generating Ambient Music from WaveNet**:https://medium.com/@rachelchen_49210/generating-ambient-noise-from-wavenet-95aa7f0a8f77
 
 **VideoGame Music with Sentiment**:http://www.lucasnferreira.com/papers/2019/ismir-learning.pdf
-**Dataset ^:**https://github.com/lucasnfe/vgmidi/tree/master/labelled
+**Dataset**:https://github.com/lucasnfe/vgmidi/tree/master/labelled
 
 **Types of Scenes:**
 ![]:(IMG_2217.HEIC)
