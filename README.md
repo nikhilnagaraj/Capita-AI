@@ -5,6 +5,8 @@ Repository for Creative AI
 
 ## Interesting Articles
 
+**Learning to generate music with sentiment** - http://www.lucasnferreira.com/papers/2019/ismir-learning.pdf
+
 **How to find the right music for your video using deep learning - towardsdatascience.com**:
 https://towardsdatascience.com/https-towardsdatascience-com-how-to-find-the-right-music-for-your-video-using-deep-learning-58541eb8bc3b
 
